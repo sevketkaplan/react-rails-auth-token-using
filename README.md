@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*Rails version ->5.2.2
+*Ruby version ->2.5.1
 
-Things you may want to cover:
+Which am I using database? -> MYSQL  
 
-* Ruby version
+How to start? -> Before, bundle install for gems. After configure mysql settings in "database.yml", later
 
-* System dependencies
+foreman start -p 3000 with start.
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
